@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356040795289",
+    "project_id": "week5lectorial-54b18",
+    "storage_bucket": "week5lectorial-54b18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356040795289:android:42a341db9be344483ec408",
+        "android_client_info": {
+          "package_name": "au.edu.utas.lfwells.week5lectorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356040795289-mji741i4d78erktaeeo8d0s3602ebmhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcNBVIfXyxrVM_M0qTRxIUhYoGNuJCo_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356040795289-mji741i4d78erktaeeo8d0s3602ebmhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
